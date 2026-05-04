@@ -4,11 +4,7 @@ An agentic backend that accepts a **natural-language question** about clinical t
 
 ## Demo
 
-https://github.com/user-attachments/assets/demo.mp4
-
-<video src="demo.mp4" controls width="100%"></video>
-
-> *If the video doesn't render above, download and view [`demo.mp4`](demo.mp4) directly.*
+[▶️ Watch Demo](https://raw.githubusercontent.com/Vikhas/clinical-trials-viz-agent/main/demo.mp4)
 
 ---
 
