@@ -2,6 +2,14 @@
 
 An agentic backend that accepts a **natural-language question** about clinical trials and returns a **strict JSON visualization specification** — complete with deep citations linking every data point back to the source studies on [ClinicalTrials.gov](https://clinicaltrials.gov).
 
+## Demo
+
+https://github.com/user-attachments/assets/demo.mp4
+
+<video src="demo.mp4" controls width="100%"></video>
+
+> *If the video doesn't render above, download and view [`demo.mp4`](demo.mp4) directly.*
+
 ---
 
 ## Table of Contents
