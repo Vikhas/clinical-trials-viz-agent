@@ -1,0 +1,154 @@
+{
+  "request": {
+    "query": "Breakdown of diabetes trials by phase",
+    "max_results": 100
+  },
+  "response": {
+    "visualization": {
+      "type": "bar_chart",
+      "title": "Breakdown of Diabetes Trials by Phase",
+      "encoding": {
+        "x": "phases",
+        "y": "count(studies)",
+        "color": null
+      },
+      "data": [
+        {
+          "label": "NA",
+          "value": 35,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06057389",
+              "excerpt": "[NA] The Effects of Aronia Melanocarpa Extract on Obese Individuals With Impaired Fasting Blood Glucose"
+            },
+            {
+              "nct_id": "NCT06897462",
+              "excerpt": "[NA] Effect of Science Research Wellness Ndo1 on Glycaemia in Adults With Pre-diabetes"
+            },
+            {
+              "nct_id": "NCT06915870",
+              "excerpt": "[NA] Comparison of Empagliflozin and Dapagliflozin in Patients With Heart Failure Taking Standard Treatment"
+            }
+          ]
+        },
+        {
+          "label": "Unknown",
+          "value": 28,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT02033291",
+              "excerpt": "[Unknown] Blood-brain Barrier Quantification in Cerebral Small Vessel Disease"
+            },
+            {
+              "nct_id": "NCT01893710",
+              "excerpt": "[Unknown] International (Pediatric) Peritoneal Biobank"
+            },
+            {
+              "nct_id": "NCT05685927",
+              "excerpt": "[Unknown] Investigating Muscle Failure in Diabetic Myopathy"
+            }
+          ]
+        },
+        {
+          "label": "PHASE1",
+          "value": 11,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT00872846",
+              "excerpt": "[PHASE1] Balance System Study in Type 2 Diabetic Patients"
+            },
+            {
+              "nct_id": "NCT00286624",
+              "excerpt": "[PHASE1] Anti-Thymocyte Globulin, Cyclosporine, and RAD in Islet Transplantation"
+            },
+            {
+              "nct_id": "NCT00726505",
+              "excerpt": "[PHASE1] Renal Mechanism of Action/Splay vs. TmG"
+            }
+          ]
+        },
+        {
+          "label": "PHASE4",
+          "value": 11,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT02675868",
+              "excerpt": "[PHASE4] Effects of Vasopressors on Immune Response"
+            },
+            {
+              "nct_id": "NCT03278483",
+              "excerpt": "[PHASE4] Efficacy, Security, Adherence, Tolerability and Cost Effectiveness of Latent TB Treatment in Patients With TB/DM2 (TBL)"
+            },
+            {
+              "nct_id": "NCT00427960",
+              "excerpt": "[PHASE4] Study of Asian Patients With Hypercholesterolaemia in the UK - Rosuvastatin 5mg Versus Atorvastatin 10mg"
+            }
+          ]
+        },
+        {
+          "label": "PHASE2",
+          "value": 9,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04014023",
+              "excerpt": "[PHASE2] Study to Evaluate the Efficacy and Safety of DWP16001 in Patients With Type 2 Diabetes Mellitus"
+            },
+            {
+              "nct_id": "NCT00980746",
+              "excerpt": "[PHASE2] Efficacy and Safety of Eslicarbazepine Acetate as Therapy for Patients With Painful Diabetic Neuropathy"
+            },
+            {
+              "nct_id": "NCT00093327",
+              "excerpt": "[PHASE2] Acupuncture for Irritable Bowel Syndrome (IBS)"
+            }
+          ]
+        },
+        {
+          "label": "PHASE3",
+          "value": 8,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT00757588",
+              "excerpt": "[PHASE3] Safety and Efficacy of Saxagliptin Plus Insulin With or Without Metformin"
+            },
+            {
+              "nct_id": "NCT00217061",
+              "excerpt": "[PHASE3] Effect of a Decision Aid About Statin Use in Patients With Type 2 Diabetes Mellitus"
+            },
+            {
+              "nct_id": "NCT06420297",
+              "excerpt": "[PHASE3] OLE Study of Carbetocin Nasal Spray for the Treatment of Hyperphagia in Prader-Willi Syndrome"
+            }
+          ]
+        },
+        {
+          "label": "EARLY_PHASE1",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05847413",
+              "excerpt": "[EARLY_PHASE1] Targeting Beta Cell Dysfunction With Verapamil in Longstanding T1D"
+            }
+          ]
+        }
+      ],
+      "network_data": null
+    },
+    "meta": {
+      "source": "clinicaltrials.gov",
+      "search_expression": "diabetes",
+      "filters_applied": {},
+      "total_studies_fetched": 100,
+      "assumptions": [
+        "No specific phase or status filters were provided, so all phases and statuses are included."
+      ]
+    }
+  }
+}

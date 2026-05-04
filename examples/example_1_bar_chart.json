@@ -1,0 +1,184 @@
+{
+  "request": {
+    "query": "Distribution of Alzheimer trials by status",
+    "max_results": 100
+  },
+  "response": {
+    "visualization": {
+      "type": "bar_chart",
+      "title": "Distribution of Alzheimer Trials by Status",
+      "encoding": {
+        "x": "overallStatus",
+        "y": "count(studies)",
+        "color": null
+      },
+      "data": [
+        {
+          "label": "COMPLETED",
+          "value": 54,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04726527",
+              "excerpt": "[COMPLETED] Clinical Evaluation of Florbetapir in Primary Progressive Aphasia"
+            },
+            {
+              "nct_id": "NCT00083590",
+              "excerpt": "[COMPLETED] Huperzine A in Alzheimer's Disease"
+            },
+            {
+              "nct_id": "NCT03402659",
+              "excerpt": "[COMPLETED] Proof-of-Concept Study of a Selective p38 MAPK Alpha Inhibitor, Neflamapimod, in Subjects With Mild Alzheimer's Disease"
+            }
+          ]
+        },
+        {
+          "label": "UNKNOWN",
+          "value": 14,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04969796",
+              "excerpt": "[UNKNOWN] REACH Hope Intervention for Dementia and TBI Caregivers"
+            },
+            {
+              "nct_id": "NCT05995418",
+              "excerpt": "[UNKNOWN] Study on the Health Economic Burden of Alzheimer's Disease in China"
+            },
+            {
+              "nct_id": "NCT05723172",
+              "excerpt": "[UNKNOWN] 40Hz tACS in Treating Cognitive Function and Modulating Neurophysiology of Patients With Alzheimer's Disease"
+            }
+          ]
+        },
+        {
+          "label": "RECRUITING",
+          "value": 11,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06986096",
+              "excerpt": "[RECRUITING] Lifestyle for the BRAin Health - Nutrition and Exercise Training Intervention"
+            },
+            {
+              "nct_id": "NCT05655650",
+              "excerpt": "[RECRUITING] Identifying Biomarkers in Alzheimer's Disease"
+            },
+            {
+              "nct_id": "NCT05758961",
+              "excerpt": "[RECRUITING] Le French Gut: Characterization of Gut Microbiota Profiles in France"
+            }
+          ]
+        },
+        {
+          "label": "NOT_YET_RECRUITING",
+          "value": 6,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06445894",
+              "excerpt": "[NOT_YET_RECRUITING] Accelerated Intermittent Theta-burst Stimulation to Modify Cognitive Function and Balance in Dementia and Memory Loss"
+            },
+            {
+              "nct_id": "NCT06416137",
+              "excerpt": "[NOT_YET_RECRUITING] Dementia in Migrants Living in Italy: Promoting a Diversity-sensitive Clinical Approach and Provision of Care"
+            },
+            {
+              "nct_id": "NCT07163377",
+              "excerpt": "[NOT_YET_RECRUITING] Effect of Art Therapy on Cognitive and Hand Functions of Alzheimer's Patients"
+            }
+          ]
+        },
+        {
+          "label": "TERMINATED",
+          "value": 6,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04798989",
+              "excerpt": "[TERMINATED] A Study of the Effects of CY6463 in Participants With Alzheimer's Disease With Vascular Pathology"
+            },
+            {
+              "nct_id": "NCT02440646",
+              "excerpt": "[TERMINATED] Natural History of Coronary Atherosclerosis in Real-World Stable Chest Pain Patients Underwent Computed Tomography Angiography in Comparison With Invasive Multimodality Imaging"
+            },
+            {
+              "nct_id": "NCT04010175",
+              "excerpt": "[TERMINATED] Digital Cognitive Remote Training in Alzheimer's Disease (MA-EIAD)"
+            }
+          ]
+        },
+        {
+          "label": "ACTIVE_NOT_RECRUITING",
+          "value": 4,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04289402",
+              "excerpt": "[ACTIVE_NOT_RECRUITING] Individualized Brain Stimulation to Improve Mobility in Alzheimer's Disease"
+            },
+            {
+              "nct_id": "NCT04699786",
+              "excerpt": "[ACTIVE_NOT_RECRUITING] Returning Research Results That Indicate Risk of Alzheimer Disease Dementia to Healthy Participants in Longitudinal Studies"
+            },
+            {
+              "nct_id": "NCT05063851",
+              "excerpt": "[ACTIVE_NOT_RECRUITING] The Use of Memantine for Prevention of Alzheimer's Disease"
+            }
+          ]
+        },
+        {
+          "label": "WITHDRAWN",
+          "value": 3,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT01636596",
+              "excerpt": "[WITHDRAWN] Efficacy of Pulsatile IV Insulin on Cognition and Amyloid Burden in Patients With Alzheimer's Disease"
+            },
+            {
+              "nct_id": "NCT02982642",
+              "excerpt": "[WITHDRAWN] Efficacy and Safety of 1612 Capsules in aMnestic Mild Cognitive Impairment"
+            },
+            {
+              "nct_id": "NCT01887899",
+              "excerpt": "[WITHDRAWN] Influence of tDCS on Cortical Plasticity in Patients With Dementia of the Alzheimer Type"
+            }
+          ]
+        },
+        {
+          "label": "ENROLLING_BY_INVITATION",
+          "value": 2,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07543094",
+              "excerpt": "[ENROLLING_BY_INVITATION] Efficacy and Safety of Temporal Interference Stimulation on Cognitive Function in Patients With Early-Stage Alzheimer's Disease"
+            },
+            {
+              "nct_id": "NCT07521384",
+              "excerpt": "[ENROLLING_BY_INVITATION] Real World Outcomes of Intranasal MuSE Exosomes and Stem Cells in Neurological Regenerative Therapy"
+            }
+          ]
+        }
+      ],
+      "network_data": null
+    },
+    "meta": {
+      "source": "clinicaltrials.gov",
+      "search_expression": "Alzheimer",
+      "filters_applied": {
+        "status": [
+          "RECRUITING",
+          "COMPLETED",
+          "TERMINATED",
+          "SUSPENDED",
+          "WITHDRAWN",
+          "ENROLLED"
+        ]
+      },
+      "total_studies_fetched": 100,
+      "assumptions": []
+    }
+  }
+}

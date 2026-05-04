@@ -1,0 +1,1670 @@
+{
+  "request": {
+    "query": "How has the number of trials for this drug changed over time?",
+    "drug_name": "Pembrolizumab",
+    "max_results": 150
+  },
+  "response": {
+    "visualization": {
+      "type": "time_series",
+      "title": "Number of Trials Over Time for This Drug",
+      "encoding": {
+        "x": "date",
+        "y": "count(studies)",
+        "color": null
+      },
+      "data": [
+        {
+          "label": "2023-06-23",
+          "value": 2,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05845814",
+              "excerpt": "[2023-06-23] A Study of Efficacy and Safety of Pembrolizumab Plus Enfortumab Vedotin (EV) +/- Investigational Agents in First-Line Metastatic Urothelial Carcinoma (mUC) (MK-3475-04B/KEYMAKER-U04)"
+            },
+            {
+              "nct_id": "NCT05834348",
+              "excerpt": "[2023-06-23] A Study to Learn About the Effectiveness of Cancer Medicines in Patients With Metastatic Non-small Cell Lung Cancer in Norway."
+            }
+          ]
+        },
+        {
+          "label": "2024-12-27",
+          "value": 2,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06516887",
+              "excerpt": "[2024-12-27] Study of Bemcentinib Plus Pacritinib In Patients With Advanced Lung Adenocarcinoma"
+            },
+            {
+              "nct_id": "NCT06078384",
+              "excerpt": "[2024-12-27] Pembrolizumab and Chemotherapy Treatment or no Treatment Guided by the Level of TILs in Resected Early-stage TNBC"
+            }
+          ]
+        },
+        {
+          "label": "2014-05-30",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT02122861",
+              "excerpt": "[2014-05-30] Phase 1 Study of Intradermal LV305 in Patients With Locally Advanced, Relapsed or Metastatic Cancer Expressing NY-ESO-1"
+            }
+          ]
+        },
+        {
+          "label": "2014-10-15",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT02243579",
+              "excerpt": "[2014-10-15] Pembrolizumab in Treating Patients With Relapsed or Refractory Stage IB-IVB Mycosis Fungoides or Sezary Syndrome"
+            }
+          ]
+        },
+        {
+          "label": "2015-09-11",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT02528357",
+              "excerpt": "[2015-09-11] GSK3174998 Alone and With Pembrolizumab in Participants With Advanced Solid Tumors (ENGAGE-1)"
+            }
+          ]
+        },
+        {
+          "label": "2015-10-20",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT02440425",
+              "excerpt": "[2015-10-20] Dose Dense Paclitaxel With Pembrolizumab (MK-3475) in Platinum Resistant Ovarian Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2016-04-04",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT02595866",
+              "excerpt": "[2016-04-04] Testing the Addition of an Experimental Medication MK-3475 (Pembrolizumab) to Usual Anti-Retroviral Medications in Patients With HIV and Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2016-04-15",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT02657889",
+              "excerpt": "[2016-04-15] Niraparib in Combination With Pembrolizumab in Patients With Triple-negative Breast Cancer or Ovarian Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2016-06-08",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT02642809",
+              "excerpt": "[2016-06-08] Pembrolizumab With Locally Delivered Radiation Therapy for the Treatment of Metastatic Esophageal Cancers"
+            }
+          ]
+        },
+        {
+          "label": "2016-06-23",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT02723955",
+              "excerpt": "[2016-06-23] Dose Escalation and Expansion Study of GSK3359609 in Participants With Selected Advanced Solid Tumors (INDUCE-1)"
+            }
+          ]
+        },
+        {
+          "label": "2016-10",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT02688608",
+              "excerpt": "[2016-10] Pembrolizumab in Anaplastic/Undifferentiated Thyroid Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2016-11-11",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT02784171",
+              "excerpt": "[2016-11-11] Pembrolizumab in Patients With Advanced Malignant Pleural Mesothelioma"
+            }
+          ]
+        },
+        {
+          "label": "2016-12",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT02599779",
+              "excerpt": "[2016-12] A Proof of Principle Study of Pembrolizumab With SBRT in TKI mRCC Patients"
+            }
+          ]
+        },
+        {
+          "label": "2017-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT02990416",
+              "excerpt": "[2017-01] A-dmDT390-bisFv(UCHT1) Fusion Protein With Ionizing Radiation and Pembrolizumab for the Treatment of Stage IV Melanoma"
+            }
+          ]
+        },
+        {
+          "label": "2017-01-10",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT02740920",
+              "excerpt": "[2017-01-10] Response to Pembrolizumab in Metastatic Melanoma: Computed Tomography Texture Analysis as a Predictive Biomarker"
+            }
+          ]
+        },
+        {
+          "label": "2017-07-02",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT03179436",
+              "excerpt": "[2017-07-02] Study of Quavonlimab (MK-1308) in Combination With Pembrolizumab (MK-3475) in Advanced Solid Tumors (MK-1308-001)"
+            }
+          ]
+        },
+        {
+          "label": "2017-07-25",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT03189719",
+              "excerpt": "[2017-07-25] First-line Esophageal Carcinoma Study With Pembrolizumab Plus Chemo vs. Chemo (MK-3475-590/KEYNOTE-590)"
+            }
+          ]
+        },
+        {
+          "label": "2017-09-29",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT03308942",
+              "excerpt": "[2017-09-29] Effects of Single Agent Niraparib and Niraparib Plus Programmed Cell Death-1 (PD-1) Inhibitors in Non-Small Cell Lung Cancer Participants"
+            }
+          ]
+        },
+        {
+          "label": "2017-12-14",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT03063632",
+              "excerpt": "[2017-12-14] Testing the Combination of Two Experimental Drugs MK-3475 (Pembrolizumab) and Interferon-gamma for the Treatment of Mycosis Fungoides and S\u00e9zary Syndrome and Advanced Synovial Sarcoma"
+            }
+          ]
+        },
+        {
+          "label": "2018-07-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT03469804",
+              "excerpt": "[2018-07-01] Phase II Multicentric Study of Pembrolizumab in Classic or Endemic Kaposi's Sarcoma"
+            }
+          ]
+        },
+        {
+          "label": "2018-08-21",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT03486873",
+              "excerpt": "[2018-08-21] Long-term Safety and Efficacy Extension Study for Participants With Advanced Tumors Who Are Currently on Treatment or in Follow-up in a Pembrolizumab (MK-3475) Study (MK-3475-587/KEYNOTE-587)"
+            }
+          ]
+        },
+        {
+          "label": "2018-11-08",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT03675737",
+              "excerpt": "[2018-11-08] Pembrolizumab (MK-3475) Plus Chemotherapy Versus Placebo Plus Chemotherapy in Participants Gastric or Gastroesophageal Junction (GEJ) Adenocarcinoma (MK-3475-859/KEYNOTE-859)"
+            }
+          ]
+        },
+        {
+          "label": "2018-11-19",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT03665597",
+              "excerpt": "[2018-11-19] Relative Bioavailability Study of Subcutaneous Injection Versus Intravenous Infusion of Pembrolizumab (MK-3475) in Participants With Advanced Melanoma (MK-3475-555/KEYNOTE-555)"
+            }
+          ]
+        },
+        {
+          "label": "2018-12-21",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT03815058",
+              "excerpt": "[2018-12-21] A Study to Evaluate the Efficacy and Safety of Autogene Cevumeran (RO7198457) in Combination With Pembrolizumab Versus Pembrolizumab Alone in Participants With Previously Untreated Advanced Melanoma."
+            }
+          ]
+        },
+        {
+          "label": "2019-02-28",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT03768063",
+              "excerpt": "[2019-02-28] A Study in Patients Previously Enrolled in a Genentech and/or F. Hoffmann-La Roche Ltd Sponsored Atezolizumab Study"
+            }
+          ]
+        },
+        {
+          "label": "2019-03-14",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT03848845",
+              "excerpt": "[2019-03-14] Study Evaluating Safety, Tolerability and Clinical Activity of GSK2857916 in Combination With Pembrolizumab in Subjects With Relapsed/Refractory Multiple Myeloma (RRMM)"
+            }
+          ]
+        },
+        {
+          "label": "2019-04-16",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT03934814",
+              "excerpt": "[2019-04-16] Study of TJ011133 in Participants With Relapsed/Refractory Advanced Solid Tumors and Lymphoma"
+            }
+          ]
+        },
+        {
+          "label": "2019-05-09",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT03753659",
+              "excerpt": "[2019-05-09] IMMULAB - Immunotherapy With Pembrolizumab in Combination With Local Ablation in Hepatocellular Carcinoma (HCC)"
+            }
+          ]
+        },
+        {
+          "label": "2019-07-28",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT03834493",
+              "excerpt": "[2019-07-28] Study of Pembrolizumab (MK-3475) Plus Enzalutamide Versus Placebo Plus Enzalutamide in Participants With Metastatic Castration-resistant Prostate Cancer (mCRPC) (MK-3475-641/KEYNOTE-641)"
+            }
+          ]
+        },
+        {
+          "label": "2019-08-09",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT03899155",
+              "excerpt": "[2019-08-09] Pan Tumor Rollover Study"
+            }
+          ]
+        },
+        {
+          "label": "2019-08-22",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT03914612",
+              "excerpt": "[2019-08-22] Testing the Addition of the Immunotherapy Drug Pembrolizumab to the Usual Chemotherapy Treatment (Paclitaxel and Carboplatin) in Stage III-IV or Recurrent Endometrial Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2019-12-10",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04198766",
+              "excerpt": "[2019-12-10] Study of INBRX-106 and INBRX-106 in Combination With Pembrolizumab (Keytruda\u00ae) in Subjects With Locally Advanced or Metastatic Solid Tumors (Hexavalent OX40 Agonist)"
+            }
+          ]
+        },
+        {
+          "label": "2019-12-19",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04165070",
+              "excerpt": "[2019-12-19] KEYMAKER-U01 Substudy 01A: Efficacy and Safety Study of Pembrolizumab (MK-3475) With or Without Chemotherapy When Used With Investigational Agents in Treatment-na\u00efve Participants With Stage IV Non-sma"
+            }
+          ]
+        },
+        {
+          "label": "2020-02-12",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04191096",
+              "excerpt": "[2020-02-12] Efficacy and Safety of Pembrolizumab (MK-3475) Plus Enzalutamide Plus Androgen Deprivation Therapy (ADT) Versus Placebo Plus Enzalutamide Plus ADT in Participants With Metastatic Hormone-Sensitive Pro"
+            }
+          ]
+        },
+        {
+          "label": "2020-03-18",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04164082",
+              "excerpt": "[2020-03-18] Testing the Addition of an Anti-cancer Drug, Pembrolizumab, to the Usual Intravesical Chemotherapy Treatment (Gemcitabine) for the Treatment of BCG-Unresponsive Non-muscle Invasive Bladder Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2020-05-26",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04093167",
+              "excerpt": "[2020-05-26] Study of CTDNA Response Adaptive Immuno-Chemotherapy in Lung Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2020-06-05",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04152863",
+              "excerpt": "[2020-06-05] Efficacy, Safety, and Tolerability of Gebasaxturev (V937) Administered Intravenously or Intratumorally With Pembrolizumab (MK-3475) Versus Pembrolizumab Alone in Participants With Advanced/Metastatic "
+            }
+          ]
+        },
+        {
+          "label": "2020-06-16",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04267848",
+              "excerpt": "[2020-06-16] Testing the Addition of a Type of Drug Called Immunotherapy to the Usual Chemotherapy Treatment for Non-small Cell Lung Cancer, an ALCHEMIST Treatment Trial (Chemo-IO [ACCIO])"
+            }
+          ]
+        },
+        {
+          "label": "2020-06-25",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04295863",
+              "excerpt": "[2020-06-25] Comparing Dosing Intervals of Nivolumab or Pembrolizumab in Locally Advanced or Metastatic Cancers"
+            }
+          ]
+        },
+        {
+          "label": "2020-06-26",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04305041",
+              "excerpt": "[2020-06-26] Substudy 02A: Safety and Efficacy of Pembrolizumab in Combination With Investigational Agents in Participants With Programmed Cell-death 1 (PD-1) Refractory Melanoma (MK-3475-02A/KEYMAKER-U02)"
+            }
+          ]
+        },
+        {
+          "label": "2020-07-22",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04420884",
+              "excerpt": "[2020-07-22] A Study of Dazostinag as Single Agent and Dazostinag in Combination With Pembrolizumab in Adults With Advanced or Metastatic Solid Tumors"
+            }
+          ]
+        },
+        {
+          "label": "2020-07-24",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04222972",
+              "excerpt": "[2020-07-24] A Study of Pralsetinib Versus Standard of Care for First-Line Treatment of Advanced Non-Small Cell Lung Cancer (NSCLC)"
+            }
+          ]
+        },
+        {
+          "label": "2020-08-21",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04513067",
+              "excerpt": "[2020-08-21] A Safety Study of YQ23 in Advanced Solid Tumors Patients"
+            }
+          ]
+        },
+        {
+          "label": "2020-09-15",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04430738",
+              "excerpt": "[2020-09-15] Tucatinib Plus Trastuzumab and Oxaliplatin-based Chemotherapy or Pembrolizumab-containing Combinations for HER2+ Gastrointestinal Cancers"
+            }
+          ]
+        },
+        {
+          "label": "2020-10-26",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04475939",
+              "excerpt": "[2020-10-26] Placebo-controlled Study Comparing Niraparib Plus Pembrolizumab Versus Placebo Plus Pembrolizumab as Maintenance Therapy in Participants With Advanced/Metastatic Non-Small Cell Lung Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2020-11-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04134559",
+              "excerpt": "[2020-11-01] Checkpoint Inhibition In Pediatric Hepatocellular Carcinoma"
+            }
+          ]
+        },
+        {
+          "label": "2020-11-11",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04207086",
+              "excerpt": "[2020-11-11] A Phase II Study of Neoadjuvant Pembrolizumab & Lenvatinib for Resectable Stage III Melanoma"
+            }
+          ]
+        },
+        {
+          "label": "2020-11-19",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04581824",
+              "excerpt": "[2020-11-19] Efficacy Comparison of Dostarlimab Plus Chemotherapy Versus Pembrolizumab Plus Chemotherapy in Participants With Metastatic Non-squamous Non-small Cell Lung Cancer (NSCLC)"
+            }
+          ]
+        },
+        {
+          "label": "2020-12-15",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04619797",
+              "excerpt": "[2020-12-15] A Study of Tiragolumab in Combination With Atezolizumab Plus Pemetrexed and Carboplatin/Cisplatin Versus Pembrolizumab Plus Pemetrexed and Carboplatin/Cisplatin in Participants With Previously Untreat"
+            }
+          ]
+        },
+        {
+          "label": "2020-12-22",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04547504",
+              "excerpt": "[2020-12-22] PEmbRolizumab verSus chEmotherapy and pEmbrolizumab in Non-small-cell Lung Cancers (NSCLC) With PDL1 \u2265 50 %"
+            }
+          ]
+        },
+        {
+          "label": "2021-01-15",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04657991",
+              "excerpt": "[2021-01-15] A Clinical Trial of Three Study Medicines (Encorafenib, Binimetinib, and Pembrolizumab) in Patients With Advanced or Metastatic Melanoma"
+            }
+          ]
+        },
+        {
+          "label": "2021-01-25",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04752826",
+              "excerpt": "[2021-01-25] BI-1808 as a Single Agent and With Pembrolizumab (KEYTRUDA\u00ae ) in Treatment of Advanced Malignancies(Keynote-D20)"
+            }
+          ]
+        },
+        {
+          "label": "2021-01-26",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04609566",
+              "excerpt": "[2021-01-26] Brentuximab Vedotin With Pembrolizumab in Metastatic Solid Tumors"
+            }
+          ]
+        },
+        {
+          "label": "2021-03-18",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04799054",
+              "excerpt": "[2021-03-18] A Study of TransCon TLR7/8 Agonist With or Without Pembrolizumab in Patients With Advanced or Metastatic Solid Tumors"
+            }
+          ]
+        },
+        {
+          "label": "2021-03-29",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04776148",
+              "excerpt": "[2021-03-29] Study of Lenvatinib (MK-7902/E7080) in Combination With Pembrolizumab (MK-3475) Versus Standard of Care in Participants With Metastatic Colorectal Cancer (MK-7902-017/E7080-G000-325/LEAP-017)"
+            }
+          ]
+        },
+        {
+          "label": "2021-04-14",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04736706",
+              "excerpt": "[2021-04-14] A Study of Pembrolizumab (MK-3475) in Combination With Belzutifan (MK-6482) and Lenvatinib (MK-7902), or Pembrolizumab/Quavonlimab (MK-1308A) in Combination With Lenvatinib, Versus Pembrolizumab and L"
+            }
+          ]
+        },
+        {
+          "label": "2021-04-20",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04725188",
+              "excerpt": "[2021-04-20] Pembrolizumab/Vibostolimab Coformulation (MK-7684A) or Pembrolizumab/Vibostolimab Coformulation Plus Docetaxel Versus Docetaxel for Metastatic Non Small Cell Lung Cancer (NSCLC) With Progressive Disea"
+            }
+          ]
+        },
+        {
+          "label": "2021-05-03",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04700072",
+              "excerpt": "[2021-05-03] Substudy 02D: Safety and Efficacy of Pembrolizumab in Combination With Investigational Agents or Pembrolizumab Alone in Participants With Melanoma Brain Metastasis (MK-3475-02D/KEYMAKER-U02)"
+            }
+          ]
+        },
+        {
+          "label": "2021-05-12",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04768881",
+              "excerpt": "[2021-05-12] Safety and Efficacy of Selinexor in Combination With Pembrolizumab in Recurrent Advanced Melanoma"
+            }
+          ]
+        },
+        {
+          "label": "2021-06-08",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04746924",
+              "excerpt": "[2021-06-08] A Study of Ociperlimab With Tislelizumab Compared to Pembrolizumab in Participants With Untreated Lung Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2021-06-18",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04895358",
+              "excerpt": "[2021-06-18] Study of Pembrolizumab (MK-3475) Plus Chemotherapy Versus Placebo Plus Chemotherapy for HR+/HER2- Locally Recurrent Inoperable or Metastatic Breast Cancer (MK-3475-B49/KEYNOTE-B49)"
+            }
+          ]
+        },
+        {
+          "label": "2021-06-29",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04854434",
+              "excerpt": "[2021-06-29] A Study to Evaluate the Safety and Efficacy of Selinexor With or Without Pembrolizumab Versus Standard of Care in Previously Treated Metastatic Colorectal Cancer With RAS Mutations"
+            }
+          ]
+        },
+        {
+          "label": "2021-08-05",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04956692",
+              "excerpt": "[2021-08-05] Study of Pembrolizumab (MK-3475) Subcutaneous (SC) Versus Pembrolizumab Intravenous (IV) Administered With Platinum Doublet Chemotherapy in Participants With Metastatic Squamous or Nonsquamous Non-Sma"
+            }
+          ]
+        },
+        {
+          "label": "2021-08-12",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04946370",
+              "excerpt": "[2021-08-12] Phase I/II Trial of Pembrolizumab and Androgen-receptor Inhibitor With or Without 225Ac-J591 for Progressive Metastatic Castration Resistant Prostate Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2021-08-18",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04976634",
+              "excerpt": "[2021-08-18] Pembrolizumab Plus Lenvatinib in Combination With Belzutifan in Solid Tumors (MK-6482-016)"
+            }
+          ]
+        },
+        {
+          "label": "2021-08-19",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04938817",
+              "excerpt": "[2021-08-19] Safety and Efficacy Study of Investigational Agents as Monotherapy or in Combination With Pembrolizumab (MK-3475) for the Treatment of Extensive-Stage Small Cell Lung Cancer (ES-SCLC) in Need of Secon"
+            }
+          ]
+        },
+        {
+          "label": "2021-11-10",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05064059",
+              "excerpt": "[2021-11-10] A Study of Coformulated Favezelimab/Pembrolizumab (MK-4280A) Versus Standard of Care in Subjects With Previously Treated Metastatic PD-L1 Positive Colorectal Cancer (MK-4280A-007)"
+            }
+          ]
+        },
+        {
+          "label": "2021-12-17",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05067283",
+              "excerpt": "[2021-12-17] A Study of Calderasib (MK-1084) in KRAS Mutant Advanced Solid Tumors (MK-1084-001)"
+            }
+          ]
+        },
+        {
+          "label": "2022-01-25",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05098132",
+              "excerpt": "[2022-01-25] Study of STK-012 Alone and With Other Treatments in Patients With Advanced Lung Cancer and Other Cancers"
+            }
+          ]
+        },
+        {
+          "label": "2022-02-22",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04575961",
+              "excerpt": "[2022-02-22] Study of Pembrolizumab Combination With Chemotherapy in Platinum-sensitive Recurrent Low-grade Serous Ovarian Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2022-03-02",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05082259",
+              "excerpt": "[2022-03-02] ASTEROID: A Trial of ASTX660 in Combination With Pembrolizumab"
+            }
+          ]
+        },
+        {
+          "label": "2022-03-24",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05226598",
+              "excerpt": "[2022-03-24] Study of Pembrolizumab/Vibostolimab Coformulation (MK-7684A) in Combination With Chemotherapy Versus Pembrolizumab Plus Chemotherapy in Participants With Metastatic Non-Small Cell Lung Cancer (MK-7684"
+            }
+          ]
+        },
+        {
+          "label": "2022-05-02",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05255302",
+              "excerpt": "[2022-05-02] De-escalation Immunotherapy mAintenance Duration Trial for Stage IV Lung Cancer Patients With Disease Control After Chemo-immunotherapy Induction"
+            }
+          ]
+        },
+        {
+          "label": "2022-05-03",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04879329",
+              "excerpt": "[2022-05-03] A Study of Disitamab Vedotin Alone or With Pembrolizumab in Urothelial Cancer That Expresses HER2"
+            }
+          ]
+        },
+        {
+          "label": "2022-06-07",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05365581",
+              "excerpt": "[2022-06-07] A Study of ASP2138 Given by Itself or Given With Other Cancer Treatments in Adults With Stomach Cancer, Gastroesophageal Junction Cancer, or Pancreatic Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2022-07-11",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05270213",
+              "excerpt": "[2022-07-11] Evaluation of RBS2418 in Subjects With Advanced, Metastatic Solid Tumors"
+            }
+          ]
+        },
+        {
+          "label": "2022-07-14",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05352672",
+              "excerpt": "[2022-07-14] Clinical Study of Fianlimab in Combination With Cemiplimab Versus Pembrolizumab in Adolescent and Adult Patients With Previously Untreated Unresectable Locally Advanced or Metastatic Melanoma"
+            }
+          ]
+        },
+        {
+          "label": "2022-07-26",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05229614",
+              "excerpt": "[2022-07-26] Immunotherapy and Carbon Ion Radiotherapy In Solid Cancers With Stable Disease"
+            }
+          ]
+        },
+        {
+          "label": "2022-09-30",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05200559",
+              "excerpt": "[2022-09-30] T-regulatory Cell Depletion with E7777 Combined with Pembrolizumab in Recurrent or Metastatic Solid Tumors"
+            }
+          ]
+        },
+        {
+          "label": "2022-10-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05547282",
+              "excerpt": "[2022-10-01] Low-dose Radiotherapy Combined With Conventional Radiotherapy After Immunotherapy Failure"
+            }
+          ]
+        },
+        {
+          "label": "2022-10-14",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05565378",
+              "excerpt": "[2022-10-14] A Platform Study of Novel Immunotherapy Combinations in Participants With Previously Untreated, Advanced/Metastatic Non-Small-Cell Lung Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2022-11-28",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05629585",
+              "excerpt": "[2022-11-28] A Study of Dato-DXd With or Without Durvalumab Versus Investigator's Choice of Therapy in Patients With Stage I-III Triple-negative Breast Cancer Without Pathological Complete Response Following Neoad"
+            }
+          ]
+        },
+        {
+          "label": "2022-12-12",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05633654",
+              "excerpt": "[2022-12-12] Study of Sacituzumab Govitecan-hziy and Pembrolizumab Versus Treatment of Physician's Choice in Patients With Triple Negative Breast Cancer Who Have Residual Invasive Disease After Surgery and Neoadju"
+            }
+          ]
+        },
+        {
+          "label": "2022-12-20",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05655663",
+              "excerpt": "[2022-12-20] Evaluation of Vascular Toxicity of Immune Checkpoint Inhibitors in Patients Head and Neck or Lung Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2023-01-16",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05608291",
+              "excerpt": "[2023-01-16] A Trial to See if the Combination of Fianlimab With Cemiplimab Works Better Than Pembrolizumab for Preventing or Delaying Melanoma From Coming Back After it Has Been Removed With Surgery"
+            }
+          ]
+        },
+        {
+          "label": "2023-01-24",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05465954",
+              "excerpt": "[2023-01-24] Efineptakin Alfa and Pembrolizumab for the Treatment of Recurrent Glioblastoma"
+            }
+          ]
+        },
+        {
+          "label": "2023-02-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05327686",
+              "excerpt": "[2023-02-01] Testing the Addition of Stereotactic Radiation Therapy With Immune Therapy for the Treatment of Patients With Unresectable or Metastatic Renal Cell Cancer, SAMURAI Trial"
+            }
+          ]
+        },
+        {
+          "label": "2023-02-14",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05722015",
+              "excerpt": "[2023-02-14] A Study of Subcutaneous (SC) Pembrolizumab Coformulated With Berahyaluronidase Alfa (MK-3475A) vs Intravenous Pembrolizumab in Adult Participants With Metastatic Non-small Cell Lung Cancer (NSCLC) (MK"
+            }
+          ]
+        },
+        {
+          "label": "2023-03-07",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04789096",
+              "excerpt": "[2023-03-07] Tucatinib Together With Pembrolizumab and Trastuzumab"
+            }
+          ]
+        },
+        {
+          "label": "2023-03-15",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05775289",
+              "excerpt": "[2023-03-15] A Study of Tobemstomig Plus Platinum-Based Chemotherapy vs Pembrolizumab Plus Platinum-Based Chemotherapy in Participants With Previously Untreated Non-Small Cell Lung Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2023-05-12",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05743777",
+              "excerpt": "[2023-05-12] PembROlizumab With or Without Microbial EcOsystem ThErapeutic 4 (MET4) in Advanced Head and Neck Squamous Cell Carcinoma"
+            }
+          ]
+        },
+        {
+          "label": "2023-05-18",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05422794",
+              "excerpt": "[2023-05-18] Testing the Addition of Anti-Cancer Drug, ZEN003694 (ZEN-3694) and PD-1 Inhibitor (Pembrolizumab), to Standard Chemotherapy (Nab-Paclitaxel) Treatment in Patients With Advanced Triple-Negative Breast "
+            }
+          ]
+        },
+        {
+          "label": "2023-06-05",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05908799",
+              "excerpt": "[2023-06-05] Emulation of the KEYNOTE-189 Trial Using Electronic Health Records"
+            }
+          ]
+        },
+        {
+          "label": "2023-06-12",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05491083",
+              "excerpt": "[2023-06-12] Pembrolizumab and ADG106 in Advanced Solid Cancers and Triple Negative Breast Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2023-06-20",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05789082",
+              "excerpt": "[2023-06-20] A Study Evaluating the Safety, Activity, and Pharmacokinetics of Divarasib as a Single Agent or in Combination With Other Anti-Cancer Therapies in Participants With Previously Untreated Advanced or Me"
+            }
+          ]
+        },
+        {
+          "label": "2023-06-28",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05785754",
+              "excerpt": "[2023-06-28] DCSZ11 as a Monotherapy and in Combination in Patients With Advanced or Metastatic Solid Tumors"
+            }
+          ]
+        },
+        {
+          "label": "2023-07-19",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05933577",
+              "excerpt": "[2023-07-19] A Clinical Study of Intismeran Autogene (V940) Plus Pembrolizumab in People With High-Risk Melanoma (V940-001)"
+            }
+          ]
+        },
+        {
+          "label": "2023-09-22",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05911295",
+              "excerpt": "[2023-09-22] Disitamab Vedotin With Pembrolizumab vs Chemotherapy in Previously Untreated Urothelial Cancer Expressing HER2"
+            }
+          ]
+        },
+        {
+          "label": "2023-12-04",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06205706",
+              "excerpt": "[2023-12-04] BI-1910 as a Single Agent and in Combination With Pembrolizumab for the Treatment of Advanced Solid Tumors"
+            }
+          ]
+        },
+        {
+          "label": "2023-12-11",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06496568",
+              "excerpt": "[2023-12-11] A Study Evaluating Single-agent Inavolisib, Inavolisib Plus Atezolizumab, and Inavolisib Plus Pembrolizumab in PIK3CA-Mutated Cancers"
+            }
+          ]
+        },
+        {
+          "label": "2023-12-21",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06119581",
+              "excerpt": "[2023-12-21] A Study of First-Line Olomorasib (LY3537982) and Pembrolizumab With or Without Chemotherapy in Patients With Advanced KRAS G12C-Mutant Non-small Cell Lung Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2024-01-25",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06004245",
+              "excerpt": "[2024-01-25] A Study to Evaluate the Safety, Pharmacokinetics, and Anti-Tumor Activity of VVD-133214 as Monotherapy and in Combination in Participants With Advanced Solid Tumors"
+            }
+          ]
+        },
+        {
+          "label": "2024-02-09",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06151574",
+              "excerpt": "[2024-02-09] Beamion LUNG-2: A Study to Test Whether Zongertinib (BI 1810631) Helps People With Advanced Non-small Cell Lung Cancer With HER2 Mutations Compared With Standard Treatment"
+            }
+          ]
+        },
+        {
+          "label": "2024-03-28",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06305767",
+              "excerpt": "[2024-03-28] A Clinical Study of Intismeran Autogene (V940) Treatment and Pembrolizumab in People With Bladder Cancer (V940-005/INTerpath-005)"
+            }
+          ]
+        },
+        {
+          "label": "2024-04-10",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06236438",
+              "excerpt": "[2024-04-10] Study to Evaluate Adverse Events, Optimal Dose, and Change in Disease Activity, With Livmoniplimab in Combination With Budigalimab Plus Chemotherapy Versus IV Infused Pembrolizumab Plus Chemotherapy i"
+            }
+          ]
+        },
+        {
+          "label": "2024-04-14",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06312176",
+              "excerpt": "[2024-04-14] A Study of Sacituzumab Tirumotecan (MK-2870) as a Single Agent and in Combination With Pembrolizumab (MK-3475) Versus Treatment of Physician's Choice in Participants With HR+/HER2- Unresectable Locall"
+            }
+          ]
+        },
+        {
+          "label": "2024-04-17",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06228326",
+              "excerpt": "[2024-04-17] A Study Assessing KB707 for the Treatment of Advanced Solid Tumor Malignancies Affecting the Lungs"
+            }
+          ]
+        },
+        {
+          "label": "2024-05-24",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06345729",
+              "excerpt": "[2024-05-24] A Study of Calderasib (MK-1084) Plus Pembrolizumab (MK-3475) in Participants With KRAS G12C Mutant Non-small Cell Lung Cancer (NSCLC) With Programmed Cell Death Ligand 1 (PD-L1) Tumor Proportion Score"
+            }
+          ]
+        },
+        {
+          "label": "2024-06-20",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06428409",
+              "excerpt": "[2024-06-20] A Clinical Study of MK-2870 Alone or With Other Treatments to Treat Gastrointestinal Cancers (MK-9999-02A)"
+            }
+          ]
+        },
+        {
+          "label": "2024-07-11",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06264180",
+              "excerpt": "[2024-07-11] VO and Nivolumab vs Physician's Choice in Advanced Melanoma That Progressed on Anti-PD-1 & Anti-CTLA-4 Drugs [IGNYTE-3]"
+            }
+          ]
+        },
+        {
+          "label": "2024-07-17",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06483334",
+              "excerpt": "[2024-07-17] A Study of Efficacy and Safety of Sacituzumab Tirumotecan (MK-2870) Plus Enfortumab Vedotin (EV) With and Without Pembrolizumab in Advanced Urothelial Carcinoma (MK-3475-04C/KEYMAKER-U04)"
+            }
+          ]
+        },
+        {
+          "label": "2024-08-05",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06532149",
+              "excerpt": "[2024-08-05] ERectile Dysfunctions, gOnadotoxicity and Sexual Health Assessment in Men With Lung Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2024-08-06",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06545331",
+              "excerpt": "[2024-08-06] Study of XB010 in Subjects With Solid Tumors"
+            }
+          ]
+        },
+        {
+          "label": "2024-09-09",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06311721",
+              "excerpt": "[2024-09-09] A Study to Compare ABP 234 and Keytruda\u00ae (Pembrolizumab) in Participants With Advanced or Metastatic Non-squamous Non-Small Cell Lung Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2024-09-11",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06422806",
+              "excerpt": "[2024-09-11] Measuring if Immunotherapy Plus Chemotherapy is Better Than Chemotherapy Alone for Patients With Aggressive Poorly Differentiated Sarcomas"
+            }
+          ]
+        },
+        {
+          "label": "2024-09-26",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06463665",
+              "excerpt": "[2024-09-26] Efficacy & Safety of Olvimulogene Nanivacirepvec & Platinum-doublet + Physician's Choice of Immune Checkpoint Inhibitor Compared to Docetaxel in NSCL Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2024-10-14",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07111104",
+              "excerpt": "[2024-10-14] Survival Efficacy of Combined Radiotherapy and Immunotherapy in Patients With Metastatic Non-small Cell Lung Carcinoma"
+            }
+          ]
+        },
+        {
+          "label": "2024-11-21",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06767800",
+              "excerpt": "[2024-11-21] A Clinical Trial Evaluating TQB2102 for Injection in Combination With Behmosubaisumab/Payamprolizumab With or Without Chemotherapy in Unresectable Locally Advanced, Recurrent, or Metastatic Human Epid"
+            }
+          ]
+        },
+        {
+          "label": "2024-11-22",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06532006",
+              "excerpt": "[2024-11-22] A Phase \u2162 Clinical Study of HLX22 in Combination With Trastuzumab and Chemotherapy for the Treatment of Gastroesophageal Junction and Gastric Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2024-12-06",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06381154",
+              "excerpt": "[2024-12-06] Photoradiation With Verteporfin to Facilitate Immunologic Activity of Pembrolizumab in Unresectable, Locally Advanced or Metastatic Pancreatic Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2024-12-10",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06704724",
+              "excerpt": "[2024-12-10] A Study to Learn About the Study Medicine PF-07985045 When Given Alone or With Other Anti-cancer Therapies in People With Advanced Solid Tumors That Have a Change in a Gene."
+            }
+          ]
+        },
+        {
+          "label": "2024-12-11",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06632327",
+              "excerpt": "[2024-12-11] Comparing Impact of Treatment Before or After Surgery in Patients With Stage II-IIIB Resectable Non-small Cell Lung Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2024-12-25",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06748508",
+              "excerpt": "[2024-12-25] Comparing the Efficacy of Sintilimab Plus Nab-POF Regimen, Sintilimab Plus XELOX Chemotherapy, and Lenvatinib, Sintilimab Plus XELOX Chemotherapy in the Treatment of HER2-negative, Metastatic Gastric "
+            }
+          ]
+        },
+        {
+          "label": "2025-01-08",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06764095",
+              "excerpt": "[2025-01-08] Enfortumab Vedotin and Pembrolizumab With Cystectomy and/or Ureterectomy for Locally Advanced or Metastatic Bladder and Upper Urothelial Tract Cancer, CAST-AI Trial"
+            }
+          ]
+        },
+        {
+          "label": "2025-01-14",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06743126",
+              "excerpt": "[2025-01-14] SUPRAME-ACTengine\u00ae IMA203 vs. Investigator's Choice of Treatment in Previously Treated, Unresectable or Metastatic Cutaneous Melanoma"
+            }
+          ]
+        },
+        {
+          "label": "2025-02-03",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06556563",
+              "excerpt": "[2025-02-03] EF-41/KEYNOTE D58: Phase 3 Study of Optune Concomitant With Temozolomide Plus Pembrolizumab in Newly Diagnosed Glioblastoma"
+            }
+          ]
+        },
+        {
+          "label": "2025-03-06",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06772623",
+              "excerpt": "[2025-03-06] Study to Evaluate Adverse Events and Efficacy of Intravenous (IV) Telisotuzumab Adizutecan in Combination With a PD-1 Immune Checkpoint Inhibitor in Adult Participants With Advanced or Metastatic Non-"
+            }
+          ]
+        },
+        {
+          "label": "2025-03-14",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06661720",
+              "excerpt": "[2025-03-14] Testing the Addition of the Anti-Cancer Drug Tivozanib to Immunotherapy (Pembrolizumab) After Surgery to Remove All Known Sites of Kidney Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2025-03-27",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06589804",
+              "excerpt": "[2025-03-27] Testing the Addition of Anti-Cancer Drug, Cetuximab, to Standard of Care Treatment (Pembrolizumab) for Returning or Spreading Head and Neck Cancer After Previous Treatment"
+            }
+          ]
+        },
+        {
+          "label": "2025-03-30",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06731907",
+              "excerpt": "[2025-03-30] A Study of Pembrolizumab With or Without Chemotherapy in Combination With Additional Treatments for Advanced Non-Small Cell Lung Cancer (NSCLC) (MK-3475-01G/KEYMAKER U01)"
+            }
+          ]
+        },
+        {
+          "label": "2025-05-22",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06952504",
+              "excerpt": "[2025-05-22] A Study to Compare Sacituzumab Tirumotecan (MK-2870) in Combination With Pembrolizumab (MK-3475) Versus Pembrolizumab Alone as Treatment in Participants With Mismatch Repair Proficient Endometrial Can"
+            }
+          ]
+        },
+        {
+          "label": "2025-05-28",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06780098",
+              "excerpt": "[2025-05-28] Substudy 01I: A Study of Investigational Agents in Participants With Previously Treated Stage IV Squamous Non-small Cell Lung Cancer (NSCLC) (MK-3475-01I/KEYMAKER-U01I)"
+            }
+          ]
+        },
+        {
+          "label": "2025-05-30",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06364917",
+              "excerpt": "[2025-05-30] DISCERN: Dual Versus Single ICB in PDL-1 Negative NSCLC"
+            }
+          ]
+        },
+        {
+          "label": "2025-07-23",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06758401",
+              "excerpt": "[2025-07-23] This is a Study to Learn About How the Combination of the Study Medicines Sigvotatug Vedotin Plus Pembrolizumab Works in People With Non-small Cell Lung Cancer With High Levels of PD-L1."
+            }
+          ]
+        },
+        {
+          "label": "2025-07-25",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06984328",
+              "excerpt": "[2025-07-25] Study of the Effectiveness and Safety of Acasunlimab Alone and With Pembrolizumab to Treat Advanced Melanoma of the Skin That Has Returned After Treatment With an Approved Checkpoint Inhibitor Therapy"
+            }
+          ]
+        },
+        {
+          "label": "2025-08-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07087860",
+              "excerpt": "[2025-08-01] Therapeutic Plasma Exchange With Enfortumab Vedotin and Pembrolizumab for Treatment of Bladder Cancers"
+            }
+          ]
+        },
+        {
+          "label": "2025-09-22",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07111520",
+              "excerpt": "[2025-09-22] A Clinical Trial to Test if an Investigational Combination Therapy With BNT326 and BNT327 is Safe and Potentially Beneficial for People With Advanced Non-small Cell Lung Cancer (NSCLC)"
+            }
+          ]
+        },
+        {
+          "label": "2025-09-26",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07160335",
+              "excerpt": "[2025-09-26] A Phase I Clinical Study to Evaluate the PK Profile, Efficacy, Safety and Immunogenicity of HLX17 vs. Keytruda\u00ae in Multiple Resected Solid Tumors"
+            }
+          ]
+        },
+        {
+          "label": "2025-10-30",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04129515",
+              "excerpt": "[2025-10-30] NovoTTF-200A + Pembrolizumab In Melanoma Brain Metastasis"
+            }
+          ]
+        },
+        {
+          "label": "2025-12-09",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06908993",
+              "excerpt": "[2025-12-09] Tepotinib vs Standard Treatment in Patients With Advanced MET Exon 14 Mutated Non-Small Cell Lung Cancer Previously Treated"
+            }
+          ]
+        },
+        {
+          "label": "2025-12-23",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07282509",
+              "excerpt": "[2025-12-23] Safety and Efficacy of Paclitaxel Liposome Arterial Infusion Combined With Systemic Therapy for Second-Line Treatment of Advanced Liver Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2026-01-16",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07195695",
+              "excerpt": "[2026-01-16] Beamion LUNG-3: A Study to Test Whether Zongertinib Helps People With Surgically Removed, Non-small Cell Lung Cancer With HER2 Mutations Compared With Standard Treatment"
+            }
+          ]
+        },
+        {
+          "label": "2026-01-19",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07216703",
+              "excerpt": "[2026-01-19] A Clinical Study of Sacituzumab Tirumotecan (MK-2870) in Combination With Pembrolizumab (MK-3475) as First-line Maintenance Treatment of Cervical Cancer (MK-2870-036/TroFuse-036/GOG-3123/ENGOT-cx22)"
+            }
+          ]
+        },
+        {
+          "label": "2026-02-09",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06999980",
+              "excerpt": "[2026-02-09] Neo IRENIE (NEOadjuvant Ipilimumab, RElatlimab, NIvolumab Evaluation)"
+            }
+          ]
+        },
+        {
+          "label": "2026-03-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07199413",
+              "excerpt": "[2026-03-01] Allogeneic, Antigen-Presenting, GM-CSF-secreting, SV-BR-1-GM Whole Cell-Therapeutic Vaccine and Immunotherapy: A Phase I Pilot Safety and Feasibility Study for Solid Tumor Patients With CNS Metastases"
+            }
+          ]
+        },
+        {
+          "label": "2026-05-15",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07420439",
+              "excerpt": "[2026-05-15] Treatment in Patients With Advanced Non-Small Cell Lung Carcinoma and Interstitial Lung Disease"
+            }
+          ]
+        },
+        {
+          "label": "2026-06",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07341867",
+              "excerpt": "[2026-06] Systemic Anti-Cancer Therapy Dose Modifications for Individuals With Duffy Null Phenotype"
+            }
+          ]
+        },
+        {
+          "label": "2026-09",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07552181",
+              "excerpt": "[2026-09] Trial of Pembrolizumab/Chemotherapy With Live Biotherapeutic Product, MO-03, in Patients With Early Stage Triple Negative Breast Cancer"
+            }
+          ]
+        }
+      ],
+      "network_data": null
+    },
+    "meta": {
+      "source": "clinicaltrials.gov",
+      "search_expression": "trials for this drug",
+      "filters_applied": {
+        "intervention": "Pembrolizumab",
+        "drug_name": "Pembrolizumab"
+      },
+      "total_studies_fetched": 150,
+      "assumptions": [
+        "The user is asking about a specific drug but has not named it explicitly.",
+        "The term 'this drug' refers to a drug previously mentioned or known in the context."
+      ]
+    }
+  }
+}

@@ -1,0 +1,2110 @@
+{
+  "request": {
+    "query": "How many COVID-19 vaccine trials started each year?",
+    "max_results": 200
+  },
+  "response": {
+    "visualization": {
+      "type": "time_series",
+      "title": "COVID-19 Vaccine Trials Started Each Year",
+      "encoding": {
+        "x": "date",
+        "y": "count(studies)",
+        "color": null
+      },
+      "data": [
+        {
+          "label": "2021-09-01",
+          "value": 3,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05085145",
+              "excerpt": "[2021-09-01] Immunogenicity and Safety of COVID-19 Vaccine in People Living With HIV"
+            },
+            {
+              "nct_id": "NCT04896957",
+              "excerpt": "[2021-09-01] Perceptions and Representations of Vaccination Against COVID-19"
+            },
+            {
+              "nct_id": "NCT05087420",
+              "excerpt": "[2021-09-01] Migraine in Poland - a Web-based Cross-sectional Survey"
+            }
+          ]
+        },
+        {
+          "label": "2020-04",
+          "value": 2,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04346368",
+              "excerpt": "[2020-04] Bone Marrow-Derived Mesenchymal Stem Cell Treatment for Severe Patients With Coronavirus Disease 2019 (COVID-19)"
+            },
+            {
+              "nct_id": "NCT04344938",
+              "excerpt": "[2020-04] Covid 19 Pandemic. Emerging Legal and Ehical Disputes Over Patient Confidentiality"
+            }
+          ]
+        },
+        {
+          "label": "2020-05-06",
+          "value": 2,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04383652",
+              "excerpt": "[2020-05-06] Collection of Coronavirus COVID-19 Outbreak Samples in New South Wales"
+            },
+            {
+              "nct_id": "NCT04400006",
+              "excerpt": "[2020-05-06] Ozone Therapy in the Prevention of COVID-19 Infection"
+            }
+          ]
+        },
+        {
+          "label": "2020-07-01",
+          "value": 2,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04431466",
+              "excerpt": "[2020-07-01] A Study to Compare the Efficacy and Safety of Different Doses of Ivermectin for COVID-19"
+            },
+            {
+              "nct_id": "NCT04445610",
+              "excerpt": "[2020-07-01] Measles Vaccine: Is There a Protective Role in COVID 19 Pandemic?"
+            }
+          ]
+        },
+        {
+          "label": "2020-07-13",
+          "value": 2,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04357028",
+              "excerpt": "[2020-07-13] Measles Vaccine in HCW"
+            },
+            {
+              "nct_id": "NCT04460690",
+              "excerpt": "[2020-07-13] Rapid, Onsite COVID-19 Detection"
+            }
+          ]
+        },
+        {
+          "label": "2021-03-01",
+          "value": 2,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04751682",
+              "excerpt": "[2021-03-01] Safety and Immunogenicity of an Intranasal SARS-CoV-2 Vaccine (BBV154) for COVID-19"
+            },
+            {
+              "nct_id": "NCT05618548",
+              "excerpt": "[2021-03-01] Vaccination Against COVID-19 in Pregnant and Lactating Women in Belgium"
+            }
+          ]
+        },
+        {
+          "label": "2021-03-11",
+          "value": 2,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04813796",
+              "excerpt": "[2021-03-11] A Study to Evaluate Safety, Reactogenicity, and Immunogenicity of mRNA-1283 and mRNA-1273 Vaccines in Healthy Adults Between 18 Years and 55 Years of Age to Prevent COVID-19"
+            },
+            {
+              "nct_id": "NCT04806113",
+              "excerpt": "[2021-03-11] COVID-19 Vaccine in Immunosuppressed Adults With Autoimmune Diseases"
+            }
+          ]
+        },
+        {
+          "label": "2021-08-15",
+          "value": 2,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05012943",
+              "excerpt": "[2021-08-15] The ARCT-154 Self-Amplifying RNA Vaccine Efficacy Study (ARCT-154-01)"
+            },
+            {
+              "nct_id": "NCT05017805",
+              "excerpt": "[2021-08-15] COVID-19 Vaccines in Patients With Chronic Liver Disease"
+            }
+          ]
+        },
+        {
+          "label": "2021-11-01",
+          "value": 2,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06968117",
+              "excerpt": "[2021-11-01] Exploration of Pregnant Women's Reluctance Toward COVID-19 Vaccination"
+            },
+            {
+              "nct_id": "NCT05288426",
+              "excerpt": "[2021-11-01] Myocarditis Post Vaccination or Multi System Inflammatory Syndrome"
+            }
+          ]
+        },
+        {
+          "label": "2021-11-15",
+          "value": 2,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05075941",
+              "excerpt": "[2021-11-15] Evaluation of Vaccination Coverage and Determinants of Success of the COVID-19 Vaccination Program Among Populations in Very Precarious Situations"
+            },
+            {
+              "nct_id": "NCT05080218",
+              "excerpt": "[2021-11-15] COVID-19 VaccinE Response in Rheumatology Patients"
+            }
+          ]
+        },
+        {
+          "label": "2021-12-01",
+          "value": 2,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05135585",
+              "excerpt": "[2021-12-01] Evaluation of the Post-vaccination Immune Response to COVID-19 in the New Caledonian Population"
+            },
+            {
+              "nct_id": "NCT04618796",
+              "excerpt": "[2021-12-01] Effect of COVID-19 Pandemic on Vaccination Compliance"
+            }
+          ]
+        },
+        {
+          "label": "2021-12-30",
+          "value": 2,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05484700",
+              "excerpt": "[2021-12-30] Antibodies and Immunity After Vaccination of Recovered Patients With COVID-19 and Long COVID-19 Symptoms"
+            },
+            {
+              "nct_id": "NCT05153044",
+              "excerpt": "[2021-12-30] Severe Acute Respiratory Syndrome CoV 2 COVID-19 Survey and Vaccination Coverage in the Sickle Cell Population in Ile-De-France"
+            }
+          ]
+        },
+        {
+          "label": "2022-03-21",
+          "value": 2,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05212610",
+              "excerpt": "[2022-03-21] Assessing Safety of Coronavirus Infection (COVID-19) Messenger RNA (mRNA) Vaccine Administration in the Setting of a Previous Adverse Reaction"
+            },
+            {
+              "nct_id": "NCT05069610",
+              "excerpt": "[2022-03-21] Evaluating Safety, Tolerability, and Potential Efficacy of Intranasal AD17002 in Adults With Mild to Moderate COVID-19"
+            }
+          ]
+        },
+        {
+          "label": "2022-06-01",
+          "value": 2,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05348629",
+              "excerpt": "[2022-06-01] Efficacy and Safety of Covid-19 Vaccine in Cardiac Patients"
+            },
+            {
+              "nct_id": "NCT05663762",
+              "excerpt": "[2022-06-01] How do Perceptions of Coronavirus Disease (COVID-19) Risk Influence Health Decisions in Pregnancy?"
+            }
+          ]
+        },
+        {
+          "label": "2022-09-01",
+          "value": 2,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05492786",
+              "excerpt": "[2022-09-01] High-risk Influenza Vaccine Alert"
+            },
+            {
+              "nct_id": "NCT05610423",
+              "excerpt": "[2022-09-01] Covid-19 Vaccine Associated Myocarditis and Pericarditis in Norway"
+            }
+          ]
+        },
+        {
+          "label": "2023-09",
+          "value": 2,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06043388",
+              "excerpt": "[2023-09] Omicron BA.4/5-Delta COVID-19 Vaccine Phase I Clinical Trial"
+            },
+            {
+              "nct_id": "NCT06057025",
+              "excerpt": "[2023-09] Study of \"Sputnik Lite\" for the Prevention of COVID-19 With Altered Antigenic Composition."
+            }
+          ]
+        },
+        {
+          "label": "2015-06",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT02081326",
+              "excerpt": "[2015-06] Repeat BCG Vaccinations for the Treatment of Established Type 1 Diabetes"
+            }
+          ]
+        },
+        {
+          "label": "2019-10-02",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04025580",
+              "excerpt": "[2019-10-02] Systems Analyses of the Immune Response to the Seasonal Influenza Vaccine"
+            }
+          ]
+        },
+        {
+          "label": "2020-03-14",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04365764",
+              "excerpt": "[2020-03-14] Effect of Treatments in Patients Hospitalized for Severe COVID-19 Pneumonia: a Multicenter Cohort Study"
+            }
+          ]
+        },
+        {
+          "label": "2020-03-24",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04276896",
+              "excerpt": "[2020-03-24] Immunity and Safety of Covid-19 Synthetic Minigene Vaccine"
+            }
+          ]
+        },
+        {
+          "label": "2020-04-07",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04328493",
+              "excerpt": "[2020-04-07] The Vietnam Chloroquine Treatment on COVID-19"
+            }
+          ]
+        },
+        {
+          "label": "2020-04-26",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04476888",
+              "excerpt": "[2020-04-26] Convalescent Plasma Treatment in COVID-19"
+            }
+          ]
+        },
+        {
+          "label": "2020-04-27",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04358783",
+              "excerpt": "[2020-04-27] Convalescent Plasma Compared to the Best Available Therapy for the Treatment of SARS-CoV-2 Pneumonia"
+            }
+          ]
+        },
+        {
+          "label": "2020-04-30",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04596098",
+              "excerpt": "[2020-04-30] Immune Responses to COVID-19; Isolation of Neutralizing Antibodies for Therapeutics and Vaccine."
+            }
+          ]
+        },
+        {
+          "label": "2020-05-18",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04373291",
+              "excerpt": "[2020-05-18] Using BCG Vaccine to Protect Health Care Workers in the COVID-19 Pandemic"
+            }
+          ]
+        },
+        {
+          "label": "2020-05-20",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04372589",
+              "excerpt": "[2020-05-20] Antithrombotic Therapy to Ameliorate Complications of COVID-19 (ATTACC)"
+            }
+          ]
+        },
+        {
+          "label": "2020-05-22",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04383574",
+              "excerpt": "[2020-05-22] Safety and Immunogenicity Study of Inactivated Vaccine for Prevention of SARS-CoV-2 Infection(COVID-19)"
+            }
+          ]
+        },
+        {
+          "label": "2020-05-25",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04368988",
+              "excerpt": "[2020-05-25] Evaluation of the Safety and Immunogenicity of a SARS-CoV-2 rS Nanoparticle Vaccine With/Without Matrix-M Adjuvant"
+            }
+          ]
+        },
+        {
+          "label": "2020-05-26",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04414267",
+              "excerpt": "[2020-05-26] Bacillus Calmette-gu\u00e9rin Vaccination to Prevent COVID-19"
+            }
+          ]
+        },
+        {
+          "label": "2020-07-03",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04460703",
+              "excerpt": "[2020-07-03] COVID-19 Vaccine Messaging, Part 1"
+            }
+          ]
+        },
+        {
+          "label": "2020-08",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04520880",
+              "excerpt": "[2020-08] Antibodies Responses to COVID-19 Infection in Hospitalized Patients"
+            }
+          ]
+        },
+        {
+          "label": "2020-08-08",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04332835",
+              "excerpt": "[2020-08-08] Convalescent Plasma for Patients With COVID-19: A Randomized, Single Blinded, Parallel, Controlled Clinical Study"
+            }
+          ]
+        },
+        {
+          "label": "2020-08-28",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04535453",
+              "excerpt": "[2020-08-28] A Study to Evaluate a Range of Dose Levels and Vaccination Intervals of Ad26.COV2.S in Healthy Adults and Adolescents"
+            }
+          ]
+        },
+        {
+          "label": "2020-09-21",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04515147",
+              "excerpt": "[2020-09-21] A Dose-Confirmation Study to Evaluate the Safety, Reactogenicity and Immunogenicity of Vaccine CVnCoV in Healthy Adults for COVID-19"
+            }
+          ]
+        },
+        {
+          "label": "2020-09-24",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04566770",
+              "excerpt": "[2020-09-24] A Clinical Trial of A COVID-19 Vaccine Named Recombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector)"
+            }
+          ]
+        },
+        {
+          "label": "2020-09-25",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04590066",
+              "excerpt": "[2020-09-25] Testing Multiple Behavioral Science Strategies to Increase Flu-Shot Rates at a Large Retail Pharmacy"
+            }
+          ]
+        },
+        {
+          "label": "2020-09-26",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04568811",
+              "excerpt": "[2020-09-26] The Phase I Clinical Trial of Booster Vaccination of Adenovirus Type-5 Vectored COVID-19 Vaccine"
+            }
+          ]
+        },
+        {
+          "label": "2020-10-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05467982",
+              "excerpt": "[2020-10-01] Brief COVID-19 Intervention for People With Serious Mental Illness and Co-Morbid Medical Conditions"
+            }
+          ]
+        },
+        {
+          "label": "2020-10-07",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04758273",
+              "excerpt": "[2020-10-07] A Safety and Immunogenicity Study of Inactivated SARS-CoV-2 Vaccine (Vero Cells) in Healthy Population Aged 18 Years and Above(COVID-19)"
+            }
+          ]
+        },
+        {
+          "label": "2020-10-21",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04588480",
+              "excerpt": "[2020-10-21] Study to Evaluate the Safety, Tolerability, and Immunogenicity of an RNA Vaccine Candidate Against COVID-19 in Healthy Japanese Adults"
+            }
+          ]
+        },
+        {
+          "label": "2020-10-28",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04608305",
+              "excerpt": "[2020-10-28] Evaluate the Safety, Immunogenicity and Potential Efficacy of an rVSV-SARS-CoV-2-S Vaccine"
+            }
+          ]
+        },
+        {
+          "label": "2020-11",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04642339",
+              "excerpt": "[2020-11] Clinical Trial of the Immunogenicity, Safety, and Efficacy of the Gam-COVID-Vac Vaccine Against COVID-19 in Venezuela"
+            }
+          ]
+        },
+        {
+          "label": "2020-11-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04540185",
+              "excerpt": "[2020-11-01] A Phase 3 Randomized Double Blind Efficacy and Safety Study of Oral Polio Vaccine and NA-831 for Covid-19"
+            }
+          ]
+        },
+        {
+          "label": "2020-11-19",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04639466",
+              "excerpt": "[2020-11-19] A Synthetic MVA-based SARS-CoV-2 Vaccine, GEO-CM04S1, for the Prevention of COVID-19 Infection"
+            }
+          ]
+        },
+        {
+          "label": "2020-11-27",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04546841",
+              "excerpt": "[2020-11-27] Safety and Immunogenicity Trial of Multi-peptide Vaccination to Prevent COVID-19 Infection in Adults"
+            }
+          ]
+        },
+        {
+          "label": "2020-12-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04537130",
+              "excerpt": "[2020-12-01] Vaccination of Ex-acute COVID-19 Patients With Fibrosing Lung Syndrome at Discharge"
+            }
+          ]
+        },
+        {
+          "label": "2020-12-28",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04724642",
+              "excerpt": "[2020-12-28] COVID-19 Vaccine in Patients After Allogeneic HCT, CAR-T Therapy and With Primary Immune Deficiency"
+            }
+          ]
+        },
+        {
+          "label": "2020-12-30",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04548895",
+              "excerpt": "[2020-12-30] Non-invasive Biometric Monitoring in Nursing Homes to Fight COVID-19"
+            }
+          ]
+        },
+        {
+          "label": "2021-01-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04912011",
+              "excerpt": "[2021-01-01] Mineralocorticoid Receptor Antagonist and Pulmonary Fibrosis in COVID-19."
+            }
+          ]
+        },
+        {
+          "label": "2021-01-05",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04738435",
+              "excerpt": "[2021-01-05] Safety of the Sputnik V Vaccine in Health Personnel of Private Effectors of the City of Buenos Aires, Argentina"
+            }
+          ]
+        },
+        {
+          "label": "2021-01-06",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04826770",
+              "excerpt": "[2021-01-06] Adaptive Immune Response to COVID-19 Vaccination"
+            }
+          ]
+        },
+        {
+          "label": "2021-01-11",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04686409",
+              "excerpt": "[2021-01-11] App-based Symptom Tracking After Corona Vaccination (CoCoV)"
+            }
+          ]
+        },
+        {
+          "label": "2021-01-12",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04706403",
+              "excerpt": "[2021-01-12] Views on COVID-19 and Vaccination"
+            }
+          ]
+        },
+        {
+          "label": "2021-01-15",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04646616",
+              "excerpt": "[2021-01-15] CRISOL Contigo: a Multi-level Intervention to Reduce the Disproportionate Toll of COVID-19 Among Latino Communities in Philadelphia."
+            }
+          ]
+        },
+        {
+          "label": "2021-01-25",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04728828",
+              "excerpt": "[2021-01-25] COVADIAL - Immunogenicity of COVID-19 Vaccine in Hemodialysis Patients"
+            }
+          ]
+        },
+        {
+          "label": "2021-01-27",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04706156",
+              "excerpt": "[2021-01-27] Oral Side Effects of COVID-19 Vaccine"
+            }
+          ]
+        },
+        {
+          "label": "2021-01-28",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04733807",
+              "excerpt": "[2021-01-28] Antibodies Response to mRNA Vaccine Against Covid-19"
+            }
+          ]
+        },
+        {
+          "label": "2021-02-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04631367",
+              "excerpt": "[2021-02-01] mHealth Intervention for Increasing COVID-19 Prevention Practices With Urban Refugee and Displaced Youth in Uganda"
+            }
+          ]
+        },
+        {
+          "label": "2021-02-03",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05313087",
+              "excerpt": "[2021-02-03] COVID-19 Vaccine Response in Chronic Respiratory Conditions"
+            }
+          ]
+        },
+        {
+          "label": "2021-02-09",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04828460",
+              "excerpt": "[2021-02-09] Monitoring of COVID-19 Vaccine Response in Organ Transplant Patients"
+            }
+          ]
+        },
+        {
+          "label": "2021-02-11",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04996238",
+              "excerpt": "[2021-02-11] Local and General Immune Response After Coronavirus Disease (COVID-19) Vaccination in Volunteers"
+            }
+          ]
+        },
+        {
+          "label": "2021-02-19",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04811391",
+              "excerpt": "[2021-02-19] COVID-19 Vaccine Effectiveness in Albanian Health Workers"
+            }
+          ]
+        },
+        {
+          "label": "2021-02-23",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04780659",
+              "excerpt": "[2021-02-23] COVID-19 Vaccination of Immunodeficient Persons (COVAXID)"
+            }
+          ]
+        },
+        {
+          "label": "2021-03-08",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04824638",
+              "excerpt": "[2021-03-08] BNT162b2 Vaccination With 2 Doses in COVID-19 Negative Volunteers and With a Single Dose in COVID-19 Positive Volunteers"
+            }
+          ]
+        },
+        {
+          "label": "2021-03-15",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04805931",
+              "excerpt": "[2021-03-15] VEText Message Framing and Covid-19 Vaccine Uptake Among at Risk Veterans"
+            }
+          ]
+        },
+        {
+          "label": "2021-03-19",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04794946",
+              "excerpt": "[2021-03-19] Safety and Efficacy of a Non-replicating ChAdOx1 Vector Vaccine AZD1222 (COVISHIELD), for Prevention of COVID-19 in Patients With Liver Cirrhosis"
+            }
+          ]
+        },
+        {
+          "label": "2021-04-14",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05007496",
+              "excerpt": "[2021-04-14] Preventive Dendritic Cell Vaccine, AV-COVID-19, in Subjects Not Actively Infected With COVID-19"
+            }
+          ]
+        },
+        {
+          "label": "2021-04-22",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04844346",
+              "excerpt": "[2021-04-22] Plant Stanol Esters and COVID-19 Vaccination Response"
+            }
+          ]
+        },
+        {
+          "label": "2021-04-24",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04932876",
+              "excerpt": "[2021-04-24] The Response of the Immune System of Patients With End Stage Kidney Disease on Dialysis and Kidney Transplant Recipients Vaccinated for COVID-19"
+            }
+          ]
+        },
+        {
+          "label": "2021-04-28",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04863131",
+              "excerpt": "[2021-04-28] Safety and Immunogenicity of EXG-5003"
+            }
+          ]
+        },
+        {
+          "label": "2021-04-29",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04852978",
+              "excerpt": "[2021-04-29] COVID-19 Study to Assess Immunogenicity, Safety, and Tolerability of Moderna mRNA-1273 Vaccine Administered With Casirivimab+Imdevimab in Healthy Adult Volunteers"
+            }
+          ]
+        },
+        {
+          "label": "2021-05-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04848441",
+              "excerpt": "[2021-05-01] Risk of COVID-19 Infection After Vaccination"
+            }
+          ]
+        },
+        {
+          "label": "2021-05-05",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04939402",
+              "excerpt": "[2021-05-05] SARS-COV-2 Seroprevalence and Seroconversion Among Employees of the UZ Brussel Following COVID-19 Vaccination Using an Adenoviral Vector"
+            }
+          ]
+        },
+        {
+          "label": "2021-05-08",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04800133",
+              "excerpt": "[2021-05-08] Covid-19 Vaccination in Adolescents and Children"
+            }
+          ]
+        },
+        {
+          "label": "2021-05-10",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04789603",
+              "excerpt": "[2021-05-10] Effects of Using Mask During the 6-minute Walking Test in Times of COVID-19"
+            }
+          ]
+        },
+        {
+          "label": "2021-05-12",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04888793",
+              "excerpt": "[2021-05-12] Immune Response to Anti COVID-19 Vaccine in Immunocompromised Patients: a Cohort Study"
+            }
+          ]
+        },
+        {
+          "label": "2021-05-20",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04822025",
+              "excerpt": "[2021-05-20] A Study to Evaluate MVC-COV1901 Vaccine Against COVID-19 in Elderly Adults"
+            }
+          ]
+        },
+        {
+          "label": "2021-05-21",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04847596",
+              "excerpt": "[2021-05-21] A Multicenter Study to Assess Response to COVID-19 Vaccine in Multiple Sclerosis Participants Treated With Ofatumumab"
+            }
+          ]
+        },
+        {
+          "label": "2021-05-29",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04915820",
+              "excerpt": "[2021-05-29] Iron and COVID-19 Vaccine Response"
+            }
+          ]
+        },
+        {
+          "label": "2021-06-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04705116",
+              "excerpt": "[2021-06-01] COVID-19 Vaccines International Pregnancy Exposure Registry"
+            }
+          ]
+        },
+        {
+          "label": "2021-06-09",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05074706",
+              "excerpt": "[2021-06-09] Evaluation of the Immune Response to Sars-Covid-19 Vaccines in Haematological Patients: Prospective Single Center Study"
+            }
+          ]
+        },
+        {
+          "label": "2021-06-10",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04878211",
+              "excerpt": "[2021-06-10] A Open-label Study to Assess Response to COVID-19 Vaccine in Multiple Sclerosis Participants Treated With Ofatumumab"
+            }
+          ]
+        },
+        {
+          "label": "2021-06-18",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04818801",
+              "excerpt": "[2021-06-18] Safety, Reactogenicity and Immunogenicity Study of ReCOV"
+            }
+          ]
+        },
+        {
+          "label": "2021-07-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04845997",
+              "excerpt": "[2021-07-01] COVID-19 Vaccination in Patients With Rheumatic Diseases"
+            }
+          ]
+        },
+        {
+          "label": "2021-07-06",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04956575",
+              "excerpt": "[2021-07-06] A Study of mRNA-1010 Seasonal Influenza Vaccine in Healthy Adults"
+            }
+          ]
+        },
+        {
+          "label": "2021-07-12",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04441047",
+              "excerpt": "[2021-07-12] Universal Anti-Viral Vaccine for Healthy Elderly Adults"
+            }
+          ]
+        },
+        {
+          "label": "2021-07-15",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04964024",
+              "excerpt": "[2021-07-15] SaRS-Cov-2 Antibodies Following Exposure to Coronavirus Disease 2019 (COVID-19) and/or Vaccination in Nursing Homes"
+            }
+          ]
+        },
+        {
+          "label": "2021-07-22",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04847102",
+              "excerpt": "[2021-07-22] A Phase III Clinical Study of a SARS-CoV-2 Messenger Ribonucleic Acid (mRNA) Vaccine Candidate Against COVID-19 in Population Aged 18 Years and Above"
+            }
+          ]
+        },
+        {
+          "label": "2021-07-23",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04832919",
+              "excerpt": "[2021-07-23] A Nurse-Community Health Worker-Family Partnership Model: Addressing Uptake of COVID-19 Testing and Control Measures"
+            }
+          ]
+        },
+        {
+          "label": "2021-07-24",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04992208",
+              "excerpt": "[2021-07-24] Safety of an Inactivated SARS-CoV-2 Vaccine for Prevention of COVID-19 in Children and Adolescents"
+            }
+          ]
+        },
+        {
+          "label": "2021-07-30",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05027672",
+              "excerpt": "[2021-07-30] Strategies for Combining the First Component of Sputnik V With Other Adenoviral or mRNA-based Vaccines."
+            }
+          ]
+        },
+        {
+          "label": "2021-08-02",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05038618",
+              "excerpt": "[2021-08-02] A Study o Evaluate the Safety, Tolerability, and Immunogenicity of MVC-COV1901, CT-COV-21 Sub-study"
+            }
+          ]
+        },
+        {
+          "label": "2021-08-06",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04954287",
+              "excerpt": "[2021-08-06] Phase 1 Study of Intranasal PIV5 COVID-19 Vaccine Expressing SARS-CoV-2 Spike Protein in Healthy Adults and Adolescents"
+            }
+          ]
+        },
+        {
+          "label": "2021-08-07",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05050474",
+              "excerpt": "[2021-08-07] Booster Immunization Study of Recombinant SARS-CoV-2 Fusion Protein Vaccine (V-01)"
+            }
+          ]
+        },
+        {
+          "label": "2021-08-10",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04969263",
+              "excerpt": "[2021-08-10] COVID-19 Protection After Transplant Pilot Study"
+            }
+          ]
+        },
+        {
+          "label": "2021-08-26",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04952727",
+              "excerpt": "[2021-08-26] Study on Sequential Immunization of Inactivated COVID-19 Vaccine and Recombinant COVID-19 Vaccine (Ad5 Vector) in Elderly Adults"
+            }
+          ]
+        },
+        {
+          "label": "2021-08-30",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05037097",
+              "excerpt": "[2021-08-30] A Trial Evaluating the Safety and Immunogenicity of 3 COVID-19 SARS-CoV-2 RNA Vaccines in Healthy Adults"
+            }
+          ]
+        },
+        {
+          "label": "2021-09",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05003466",
+              "excerpt": "[2021-09] Study of Inactivated SARS-CoV-2 Vaccine (Vero Cells) in Healthy Population Aged 3 to 17 Years(COVID-19)"
+            }
+          ]
+        },
+        {
+          "label": "2021-09-15",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05054621",
+              "excerpt": "[2021-09-15] Immunogenicity of COVID-19 Vaccine on Heterologous Schedule"
+            }
+          ]
+        },
+        {
+          "label": "2021-09-20",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05037266",
+              "excerpt": "[2021-09-20] Cohort Assessing the Immunogenicity and the Safety of the COVID-19 Vaccine Janssen in Healthy Volunteers Based on 2 Age Groups: 65 Years or Older - 55 to 65 Years. Covicompare-Janssen"
+            }
+          ]
+        },
+        {
+          "label": "2021-09-24",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05049226",
+              "excerpt": "[2021-09-24] Third Dose Vaccination With AstraZeneca or Pfizer COVID-19 Vaccine Among Adults Received Sinovac COVID-19 Vaccine"
+            }
+          ]
+        },
+        {
+          "label": "2021-09-30",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05079633",
+              "excerpt": "[2021-09-30] A Heterologous Prime-boost Study to Evaluate Immunogenicity and Safety of mRNA-1273 With MVC-COV1901 in Adults"
+            }
+          ]
+        },
+        {
+          "label": "2021-10-02",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05065619",
+              "excerpt": "[2021-10-02] Safety Immunogenicity Study of MT-2766 in Japanese Adults\uff08COVID-19\uff09"
+            }
+          ]
+        },
+        {
+          "label": "2021-10-13",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04923035",
+              "excerpt": "[2021-10-13] Paediatric Pneumococcal Pneumonia in Malaysia Prior to and During Pneumococcal Conjugate Vaccine (PCV) Implementation"
+            }
+          ]
+        },
+        {
+          "label": "2021-10-18",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05057182",
+              "excerpt": "[2021-10-18] Third Dose of mRNA Vaccination to Boost COVID-19 Immunity (mBoost Study)"
+            }
+          ]
+        },
+        {
+          "label": "2021-10-25",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05729191",
+              "excerpt": "[2021-10-25] Evaluation of the Acceptance of the Anti-COVID-19 Vaccine Offer Among Pregnant Women"
+            }
+          ]
+        },
+        {
+          "label": "2021-10-26",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05157425",
+              "excerpt": "[2021-10-26] Effect of a Multi-strain Probiotic Formulation on Immune Response to Influenza Vaccination"
+            }
+          ]
+        },
+        {
+          "label": "2021-11-03",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05493917",
+              "excerpt": "[2021-11-03] A Real-world Study to Evaluate the Safety and Immunogenicity of a Third-dose Booster After Two Doses of an Inactivated COVID-19 Vaccine"
+            }
+          ]
+        },
+        {
+          "label": "2021-11-05",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05107557",
+              "excerpt": "[2021-11-05] Immunogenicity And Safety of COVID-19 Vaccine , Inactivated Co -Administration With EV71 Vaccine (Vero Cell)"
+            }
+          ]
+        },
+        {
+          "label": "2021-11-12",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05268458",
+              "excerpt": "[2021-11-12] Myocarditis After SARS-CoV2-Vaccination"
+            }
+          ]
+        },
+        {
+          "label": "2021-11-14",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04963790",
+              "excerpt": "[2021-11-14] Enabling Family Physicians to Reduce Vaccine Hesitancy and Increase Covid-19 Vaccine Uptake"
+            }
+          ]
+        },
+        {
+          "label": "2021-11-16",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05547802",
+              "excerpt": "[2021-11-16] Serology After BBIBP-CorV Inactivated Vaccine Combined With BNT62b2 mRNA Booster Vaccine"
+            }
+          ]
+        },
+        {
+          "label": "2021-11-17",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05124535",
+              "excerpt": "[2021-11-17] Population-based Age-stratified Seroepidemiological Investigation Protocol for Coronavirus 2019 (COVID-19) Infection in the Federation of Bosnia and Herzegovina"
+            }
+          ]
+        },
+        {
+          "label": "2021-11-19",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05876364",
+              "excerpt": "[2021-11-19] Study to Assess Safety, Reactogenicity and Immunogenicity of the repRNA(QTP104) Vaccine Against SARS-CoV-2(COVID-19)"
+            }
+          ]
+        },
+        {
+          "label": "2021-12-06",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05137236",
+              "excerpt": "[2021-12-06] A Study to Evaluate the Immunogenicity and Safety of mRNA-1283 COVID-19 Vaccine Boosters"
+            }
+          ]
+        },
+        {
+          "label": "2021-12-09",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04948606",
+              "excerpt": "[2021-12-09] Exploring Diroximel Fumarate Real-world Experience in Canada and Israel"
+            }
+          ]
+        },
+        {
+          "label": "2021-12-12",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05562479",
+              "excerpt": "[2021-12-12] Effect of Sars-cov-2 on Donor Oocyte Quality and Quantity, a Multicenter Retrospective Study."
+            }
+          ]
+        },
+        {
+          "label": "2021-12-22",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05043285",
+              "excerpt": "[2021-12-22] The Safety and Immunogenicity of SCTV01C in Healthy Population Aged \u226518 Years Previously Vaccinated With Inactivated COVID-19 Vaccine."
+            }
+          ]
+        },
+        {
+          "label": "2022-01-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05252910",
+              "excerpt": "[2022-01-01] Specimen Collection Study From Coronavirus Disease 2019 (COVID-19) Vaccinated Adults and Adolescents"
+            }
+          ]
+        },
+        {
+          "label": "2022-01-10",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04993326",
+              "excerpt": "[2022-01-10] Advancing DSME/S and COVID-19 Prevention and Protection Through \"emPOWERed to Change\" Program"
+            }
+          ]
+        },
+        {
+          "label": "2022-01-15",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05430516",
+              "excerpt": "[2022-01-15] Within Household Transmission of COVID-19 Infections"
+            }
+          ]
+        },
+        {
+          "label": "2022-01-31",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05057897",
+              "excerpt": "[2022-01-31] A Study of AZD1222, a Vaccine for the Prevention of COVID-19 in Immunocompromised Adults"
+            }
+          ]
+        },
+        {
+          "label": "2022-02-07",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05621928",
+              "excerpt": "[2022-02-07] Effectiveness of Vaccination Against COVID-19 in Brazil: Case-Control Study"
+            }
+          ]
+        },
+        {
+          "label": "2022-02-18",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT04871776",
+              "excerpt": "[2022-02-18] Use of Construal Level Theory to Inform Messaging to Increase Vaccination Against COVID-19"
+            }
+          ]
+        },
+        {
+          "label": "2022-03-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05222750",
+              "excerpt": "[2022-03-01] Epidemiology of Thrombotic Thrombocytopenia Syndrome in Integrated Health-care Database in England"
+            }
+          ]
+        },
+        {
+          "label": "2022-03-10",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05290350",
+              "excerpt": "[2022-03-10] Long COVID-19 Fatigue and Obstructive Sleep Apnea"
+            }
+          ]
+        },
+        {
+          "label": "2022-03-15",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05095844",
+              "excerpt": "[2022-03-15] National Vaccine Adverse Event Reporting Survey and Etiology"
+            }
+          ]
+        },
+        {
+          "label": "2022-03-18",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05249816",
+              "excerpt": "[2022-03-18] Phase 3 Boosting Study for the SARS-CoV-2 rS Vaccine"
+            }
+          ]
+        },
+        {
+          "label": "2022-04-15",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05299359",
+              "excerpt": "[2022-04-15] A Single Heterologous Booster Vaccination Study of TAK-019 in Healthy Japanese Adults (COVID-19)"
+            }
+          ]
+        },
+        {
+          "label": "2022-04-17",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05330871",
+              "excerpt": "[2022-04-17] Evaluate the Safety and Immunogenicity of Ad5 COVID-19 Vaccines for Booster Use in Children Aged 6-17 Years."
+            }
+          ]
+        },
+        {
+          "label": "2022-04-25",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05409300",
+              "excerpt": "[2022-04-25] Evaluation of the Immunogenicity and Safety BBIBP-CorV Vaccine for COVID-19 in Adults in Guinea"
+            }
+          ]
+        },
+        {
+          "label": "2022-04-30",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06189053",
+              "excerpt": "[2022-04-30] A Study to Assess Long-term Outcomes of Myocarditis Following Administration of COVID-19 mRNA Vaccine (SPIKEVAX)"
+            }
+          ]
+        },
+        {
+          "label": "2022-05-05",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05370040",
+              "excerpt": "[2022-05-05] THEMBA II T-Cell Vaccine: Vaccination With saRNA COVID-19 Vaccines"
+            }
+          ]
+        },
+        {
+          "label": "2022-05-19",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05293249",
+              "excerpt": "[2022-05-19] dMAbs for Prevention of COVID-19"
+            }
+          ]
+        },
+        {
+          "label": "2022-05-30",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05228314",
+              "excerpt": "[2022-05-30] Safety and Immunogenicity Dose-finding Study of Adjuvanted SCB-2020S Vaccine in Adults"
+            }
+          ]
+        },
+        {
+          "label": "2022-06-02",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05409261",
+              "excerpt": "[2022-06-02] Evaluation of the Immunogenicity and Safety of Ad26.COV2.S's COVID-19 Vaccine"
+            }
+          ]
+        },
+        {
+          "label": "2022-06-17",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05369611",
+              "excerpt": "[2022-06-17] COVID-19 Experiences in the SELF Cohort"
+            }
+          ]
+        },
+        {
+          "label": "2022-06-20",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05178186",
+              "excerpt": "[2022-06-20] Impact of the COVID-19 Pandemic on Surgery for Thyroid Cancer"
+            }
+          ]
+        },
+        {
+          "label": "2022-06-26",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05468021",
+              "excerpt": "[2022-06-26] Puerto Rico COVID-19 Vaccine Uptake Study"
+            }
+          ]
+        },
+        {
+          "label": "2022-06-28",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07049497",
+              "excerpt": "[2022-06-28] Study of Immune Response in Subjects Vaccinated Against SARS-CoV-2 Infection"
+            }
+          ]
+        },
+        {
+          "label": "2022-08",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05470803",
+              "excerpt": "[2022-08] An Observer-blind, Cohort Randomized, Exploratory Phase 3 Study to Evaluate the Safety and Immunogenicity of Recombinant Covid-19 Vaccine, mRNA Covid-19 Vaccine and Recombinant SARS-CoV-2 Trimeric S-p"
+            }
+          ]
+        },
+        {
+          "label": "2022-08-02",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06381843",
+              "excerpt": "[2022-08-02] A Clinical Study to Evaluate the Safety and Immunogenicity of the Recombinant COVID-19 Vaccine (Sf9 Cell) as a Booster"
+            }
+          ]
+        },
+        {
+          "label": "2022-08-15",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05279456",
+              "excerpt": "[2022-08-15] A Phase 3b/4 Randomised Trial of 3 Doses of Protein-based Covid-19 Vaccine (SpikoGen)"
+            }
+          ]
+        },
+        {
+          "label": "2022-08-20",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05471440",
+              "excerpt": "[2022-08-20] SWITCH ON: Analysing the Immunogenicity of Additional Booster Vaccinations in HCW"
+            }
+          ]
+        },
+        {
+          "label": "2022-09-06",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05509270",
+              "excerpt": "[2022-09-06] Efficacy of Communication Modalities for Promoting Flu Shots"
+            }
+          ]
+        },
+        {
+          "label": "2022-09-13",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05696067",
+              "excerpt": "[2022-09-13] Evaluation of Corfluvec Vaccine for the Prevention of COVID-19 in Healthy Volunteers"
+            }
+          ]
+        },
+        {
+          "label": "2022-09-21",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05764174",
+              "excerpt": "[2022-09-21] Digital Applications to Monitor Novel Coronavirus Disease and Response in Colombia - Syndromic and Vaccination Surveillance"
+            }
+          ]
+        },
+        {
+          "label": "2022-09-26",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05537103",
+              "excerpt": "[2022-09-26] Adolescents Seeking COVID Vaccination (Teen COVID Vax)"
+            }
+          ]
+        },
+        {
+          "label": "2022-10-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05572879",
+              "excerpt": "[2022-10-01] A Phase III Study of COVID-19 Vaccine EuCorVac-19 in Healthy Adults"
+            }
+          ]
+        },
+        {
+          "label": "2022-10-04",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05630313",
+              "excerpt": "[2022-10-04] Gene Sequencing as a Strategy for Identifying Genetic Factors Associated With Serious Adverse Events After Covid-19 Vaccines in Use in Brazil"
+            }
+          ]
+        },
+        {
+          "label": "2022-11-03",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05604690",
+              "excerpt": "[2022-11-03] Safety and Efficacy of Intranasal Administration of Avacc 10 Vaccine Against COVID-19 in Healthy Volunteers"
+            }
+          ]
+        },
+        {
+          "label": "2022-12-15",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05150496",
+              "excerpt": "[2022-12-15] Immunogenicity and Safety Study of the 3rd Booster Dose Using the High or Medium Dose of Inactivated (CoronaVac\u00ae) Vaccine in Healthy Adults in Turkey"
+            }
+          ]
+        },
+        {
+          "label": "2023-01-19",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05605470",
+              "excerpt": "[2023-01-19] Immunogenicity and Safety of ChulaCov19 BNA159 and ChulaCov19 BNA159.2 Vaccines as a Booster Dose in Adults"
+            }
+          ]
+        },
+        {
+          "label": "2023-03-25",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05812014",
+              "excerpt": "[2023-03-25] Clinical Trail of SARS-CoV-2 Bivalent mRNA Vaccine (LVRNA021) in Participants Aged 18 Years and Older"
+            }
+          ]
+        },
+        {
+          "label": "2023-04-15",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05571735",
+              "excerpt": "[2023-04-15] Immunogenicity of COVID-19 Vaccines in Tuberculosis Patients"
+            }
+          ]
+        },
+        {
+          "label": "2023-05-05",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05858450",
+              "excerpt": "[2023-05-05] This Study Intends to Describe the Characteristics of Patients Given the Pfizer-BioNTech Bivalent mRNA COVID-19 Vaccine and Any Commercially Available Influenza Vaccines at the Same Time Versus at Dif"
+            }
+          ]
+        },
+        {
+          "label": "2023-05-08",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05907044",
+              "excerpt": "[2023-05-08] A Study to Investigate the Safety, Immunogenicity of Bivalent mRNA Vaccine RQ3027 and RQ3025 as a Booster Dose in Healthy Adults"
+            }
+          ]
+        },
+        {
+          "label": "2023-05-15",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05868382",
+              "excerpt": "[2023-05-15] Study to Evaluate the Safety, Reactogenicity, and Immunogenicity of mRNA Vaccine Candidate Variations in Healthy Adults"
+            }
+          ]
+        },
+        {
+          "label": "2023-08-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05672355",
+              "excerpt": "[2023-08-01] A Vaccine Booster (GEO-CM04S1) for the Prevention of COVID-19 in Patients With Chronic Lymphocytic Leukemia"
+            }
+          ]
+        },
+        {
+          "label": "2023-08-07",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05972993",
+              "excerpt": "[2023-08-07] A Safety and Immune Response Study to Evaluate Varying Doses of an mRNA Vaccine Against Coronavirus Disease 2019 (COVID-19) in Healthy Adults"
+            }
+          ]
+        },
+        {
+          "label": "2023-08-28",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05894655",
+              "excerpt": "[2023-08-28] Community-engaged Optimization of COVID-19 Rapid Evaluation And TEsting Experiences"
+            }
+          ]
+        },
+        {
+          "label": "2023-09-26",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05977127",
+              "excerpt": "[2023-09-26] Intradermal Administration of a COVID-19 mRNA Vaccine in Elderly"
+            }
+          ]
+        },
+        {
+          "label": "2023-10",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05465876",
+              "excerpt": "[2023-10] Passive Antibodies Against COVID-19 With EVUSHELD in Vaccine Non-responsive CLL"
+            }
+          ]
+        },
+        {
+          "label": "2023-10-09",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05930730",
+              "excerpt": "[2023-10-09] Immunogenicity and Safety of Comvigen (Bivalent) Vaccine"
+            }
+          ]
+        },
+        {
+          "label": "2023-11-17",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06076421",
+              "excerpt": "[2023-11-17] Equity Evaluation of Fact Boxes on Informed COVID-19 and Influenza Vaccination Decisions - Study Protocol"
+            }
+          ]
+        },
+        {
+          "label": "2023-11-20",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06027229",
+              "excerpt": "[2023-11-20] Additional Recombinant COVID-19 Humoral and Cell-Mediated Immunogenicity in Immunosuppressed Populations"
+            }
+          ]
+        },
+        {
+          "label": "2023-12-18",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06690502",
+              "excerpt": "[2023-12-18] Post Authorization Safety Profile of Booster IndoVac COVID-19 Vaccination"
+            }
+          ]
+        },
+        {
+          "label": "2023-12-19",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06175494",
+              "excerpt": "[2023-12-19] A Phase 3 Clinical Study to Evaluate the Efficacy, Safety and Immunogenicity of Booster Vaccination With Recombinant COVID-19 (XBB) Trimer Protein Vaccine (Sf9 Cell)"
+            }
+          ]
+        },
+        {
+          "label": "2023-12-22",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05120869",
+              "excerpt": "[2023-12-22] Healthcare Provider Human Papillomavirus Education and Professional Skills Intervention"
+            }
+          ]
+        },
+        {
+          "label": "2024-01-16",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06108076",
+              "excerpt": "[2024-01-16] Acute and Chronic Effects of Oral Ketones in Subjects With HFrEF and Diabetes"
+            }
+          ]
+        },
+        {
+          "label": "2024-03-06",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06130410",
+              "excerpt": "[2024-03-06] Special Investigation for Booster Dose of Comirnaty in Children Ages 6 Months Though 4 Years"
+            }
+          ]
+        },
+        {
+          "label": "2024-06-04",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06283459",
+              "excerpt": "[2024-06-04] Study to Evaluate the Safety & Immunogenicity of IMNN-101 Administered in Healthy Adults Previously Vaccinated Against SARS-CoV-2"
+            }
+          ]
+        },
+        {
+          "label": "2024-07-17",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06127563",
+              "excerpt": "[2024-07-17] Caring for Frail Patients Through Vaccination"
+            }
+          ]
+        },
+        {
+          "label": "2024-09-13",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT06698497",
+              "excerpt": "[2024-09-13] Boosting COVID-19 Vaccination Uptake Using Wastewater Surveillance"
+            }
+          ]
+        },
+        {
+          "label": "2024-10",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT05682625",
+              "excerpt": "[2024-10] Understanding COVID-19 Vaccine Immunity in Tissue and Blood"
+            }
+          ]
+        },
+        {
+          "label": "2025-01-07",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07047768",
+              "excerpt": "[2025-01-07] Artificial Intelligence for Respiratory Infections SEverity Prediction"
+            }
+          ]
+        },
+        {
+          "label": "2025-07-21",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07089706",
+              "excerpt": "[2025-07-21] A Study to Evaluate the Immunogenicity and Safety of mRNA-1283 COVID-19 Variant-containing Formulations"
+            }
+          ]
+        },
+        {
+          "label": "2025-08-22",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07085611",
+              "excerpt": "[2025-08-22] Neutralizing Power of Serum Antibodies - 2"
+            }
+          ]
+        },
+        {
+          "label": "2025-12-05",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07221162",
+              "excerpt": "[2025-12-05] A Safety and Immunogenicity Trial of Boost-2867 Vaccine, Via Intranasal and Intramuscular Routes"
+            }
+          ]
+        },
+        {
+          "label": "2025-12-20",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07349849",
+              "excerpt": "[2025-12-20] Exploratory Study on mRNA Therapeutic Drug Targeting CD19 for the Treatment of Hematologic Malignancies"
+            }
+          ]
+        },
+        {
+          "label": "2026-01-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07362758",
+              "excerpt": "[2026-01-01] Exploratory Study on mRNA Therapy Targeting CD19 for the Treatment of Refractory Autoimmune Diseases"
+            }
+          ]
+        },
+        {
+          "label": "2026-02-23",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07388212",
+              "excerpt": "[2026-02-23] Exploratory Study on LNP-mRNA Drugs Targeting CD19/BCMA for the Treatment of Relapsed and Refractory Autoimmune Diseases"
+            }
+          ]
+        },
+        {
+          "label": "2026-03-01",
+          "value": 1,
+          "color_group": null,
+          "citations": [
+            {
+              "nct_id": "NCT07248319",
+              "excerpt": "[2026-03-01] Production and Evaluation of an Evidence-based Health Awareness Video on Precautionary Measures Against Respiratory Infectious Diseases (HAV-RID Study)"
+            }
+          ]
+        }
+      ],
+      "network_data": null
+    },
+    "meta": {
+      "source": "clinicaltrials.gov",
+      "search_expression": "COVID-19 vaccine",
+      "filters_applied": {},
+      "total_studies_fetched": 200,
+      "assumptions": [
+        "The user is interested in the start dates of trials specifically related to COVID-19 vaccines."
+      ]
+    }
+  }
+}
